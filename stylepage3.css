@@ -1,0 +1,33 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    margin-top: auto;
+    image-resolution: 500dpi;
+}    
+
+h3{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 200;
+    color: white;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 80;
+}
+
+body{
+    background-image:url("benz2.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}    

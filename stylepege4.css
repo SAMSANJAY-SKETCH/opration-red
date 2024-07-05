@@ -1,0 +1,19 @@
+
+   
+h3{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 200;
+    color: white;
+}
+h1{
+    font-size: 80px;
+    font-weight: bolder;
+}  
+
+body{
+    background-image:url("m1.webp");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}    
